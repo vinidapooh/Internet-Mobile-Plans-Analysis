@@ -13,7 +13,7 @@
 
 * So I created 2 views, one just for prices, and one for speeds.
 
-* Here is the SQL code for your referral
+* Here is the SQL code:
 
 ```
 
@@ -121,9 +121,5 @@ order by speedMB
 
 
 
-`
 
 
-
-
-*
