@@ -1,9 +1,14 @@
-# Ken_Portfolio
-Example data science portfolio
+# Vinit's Portfolio
 
-# [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+
+# [Project 1: Internet Mobile Plans and Prices Analysis - World](https://github.com/vinidapooh/Internet-Mobile-Plans-Analysis---2020-2021) 
+* Took up this set of data which had prices, speed and user/country profiles.
+* I used MS SQL Server to join the tables, and analyse the data. I used Power BI to build out the visualizations for the analysis.
+
+![Uploading Internet Prices project_page-0001.jpg…]()
+
+
+
+
+
+*
