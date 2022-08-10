@@ -16,13 +16,13 @@
 
 `
 
-select * from Prices
-select * from Speed
-select * from Users
+`select * from Prices`
+`select * from Speed`
+`select * from Users`
 
-select count(*) from Prices - *242
-select count(*) from Speed  - *144
-select count(*)from Users  - *214
+select count(*) from Prices 
+select count(*) from Speed 
+select count(*)from Users  
 
 
 
