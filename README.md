@@ -25,6 +25,7 @@ select count(*) from Prices
 select count(*) from Speed 
 select count(*)from Users  
 
+
 select Country from Prices where InternetPlans is null - 12 countries with no internet plans
 
 
@@ -33,8 +34,11 @@ where internetplans is not null
 group by Country
 order by sum(InternetPlans)  - Gives you the countries with single digit number of plans
 
+```
+
 --Most Expensive 1GB Mobile Internet Plan
 
+```
 select top 20 country, Most_expensive_1GB_USD, InternetPlans from Prices 
 where InternetPlans is not null
 order by Most_expensive_1GB_USD desc
