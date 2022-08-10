@@ -136,7 +136,7 @@ order by users desc
 
 ```
 
- --War torn or impoverished countries with the lowest speeds
+ --War torn or impoverished countries with the lowest speeds. Afghanistan, Somalia, Ghana, Tajikistan,Libya, Sudan
  
 ``` 
 select top 10 country, avgprice1gb, speedMB from internetplananalaysis
