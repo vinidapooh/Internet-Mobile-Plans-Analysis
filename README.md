@@ -6,7 +6,7 @@
 * I used MS SQL Server to join the tables, and analyse the data. I used Power BI to build out the visualizations for the analysis.
 
 
-![Uploading Internet Prices project_page-0001.jpg…]()
+![Viz](![Internet Prices project_page-0001])
 
 * The challenge to begin this one was the uneven no of countries that were there in some of the datasets. For eg: Some of the African countries were present in the Prices dataset, but were not present in the Speed dataset, and vice versa. For this reason the joins were done keeping the speed data out separately.
 
